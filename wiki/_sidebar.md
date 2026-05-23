@@ -91,5 +91,27 @@
   * [錢線百分百 2026-05-14 第 2 集](summaries/2026051402.md)
   * ...共 33 集
 
+* **💡 概念主題**
+  * [面板 FOPLP（扇出型面板級封裝）](concepts/面板FOPLP.md)
+  * [記憶體族群分化](concepts/記憶體族群分化.md)
+  * [璞玉指數](concepts/璞玉指數.md)
+  * [智慧眼鏡（Smart Glasses / AR Glasses）](concepts/智慧眼鏡.md)
+  * [房市 AI 廊帶 與 股房資金流四象限](concepts/房市AI廊帶-股房資金流.md)
+  * [態勢感知（Situational Awareness）與 AGI 2027 論文](concepts/態勢感知-AGI2027.md)
+  * [康寧供應鏈－CPO 光纖](concepts/康寧供應鏈-CPO光纖.md)
+  * [川習會貿易談判](concepts/川習會貿易談判.md)
+  * [台積電 COUPE（光電整合封裝架構）](concepts/台積電COUPE.md)
+  * [主動式 ETF（瑤池金母）](concepts/主動式ETF-瑤池金母.md)
+  * [SpaceX 太空帝國 IPO](concepts/SpaceX-太空帝國IPO.md)
+  * [IC 設計族群－ASIC 矽智財](concepts/IC設計族群-ASIC矽智財.md)
+  * [Google I/O 2026 四大黑科技](concepts/GoogleIO2026黑科技.md)
+  * [COMPUTEX 2026－機器人行情](concepts/COMPUTEX2026-機器人行情.md)
+  * [BBU 電力供應鏈](concepts/BBU電力供應.md)
+  * [AI 敘事轉變——CPU 崛起（Agentic AI 時代）](concepts/AI敘事轉變-CPU崛起.md)
+  * [AI 伺服器供應鏈](concepts/AI伺服器供應鏈.md)
+
+* **🎯 預測追蹤**
+  * [Tracker](predictions/tracker.md)
+
 * **📋 完整目錄**
   * [index](index.md)
