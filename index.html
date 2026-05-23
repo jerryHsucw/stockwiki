@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>財經新聞 Wiki</title>
+  <link rel="icon" href="https://cdn.jsdelivr.net/npm/twemoji@14/2/svg/1f4c8.svg">
+  <style>
+    :root {
+      --theme-color: #1a73e8;
+      --sidebar-width: 280px;
+    }
+    body { font-family: "Noto Sans TC", "Microsoft JhengHei", sans-serif; }
+    .sidebar { border-right: 1px solid #eee; }
+    .markdown-section table {
+      display: block;
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+    }
+    /* 手機版表格橫向捲動 */
+    @media (max-width: 768px) {
+      .markdown-section { padding: 16px; font-size: 14px; }
+    }
+  </style>
+</head>
+<body>
+  <div id="app">載入中...</div>
+  <script>
+    window.$docsify = {
+      name: '📈 財經新聞 Wiki',
+      nameLink: '/',
+      basePath: 'wiki/',
+      homepage:  'index.md',
+      loadSidebar: '_sidebar.md',
+      loadNavbar: false,
+      subMaxLevel: 2,
+      auto2top: true,
+
+      search: {
+        maxAge: 86400000,
+        paths: 'auto',
+        placeholder: '🔍 搜尋...',
+        noData: '找不到結果',
+        depth: 3,
+      },
+
+      pagination: {
+        previousText: '上一頁',
+        nextText:     '下一頁',
+        crossChapter: true,
+      },
+
+      /* 最後更新時間 */
+      timeUpdater: {
+        text: '>最後更新：{docsify-updated}',
+        formatUpdated: '{YYYY}-{MM}-{DD} {HH}:{mm}',
+      },
+
+      plugins: [],
+    }
+  </script>
+
+  <!-- Docsify 核心 -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
+  <!-- 搜尋 -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
+  <!-- 表格排序 -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify-table-sort/dist/docsify-table-sort.min.js"></script>
+  <!-- 程式碼高亮 -->
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-python.min.js"></script>
+</body>
+</html>
