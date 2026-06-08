@@ -5,12 +5,15 @@
   * [成交量前 100 名](volume_top100.md)
 
 * **📈 個股頁面**
+  * [長佳智能（AI 醫療）](stocks/長佳智能-AI醫療.md)
   * [邁達特（AI軟體系統整合）](stocks/邁達特-AI軟體.md)
   * [萬潤（未知代號）](stocks/萬潤.md)
   * [穎崴（CPO探針卡）](stocks/穎崴-CPO探針卡.md)
   * [泓瀚（CPO助焊劑噴墨技術）](stocks/泓瀚-CPO助焊劑.md)
+  * [正德（散裝航運）](stocks/正德-散裝航運.md)
   * [旺矽（CPO探針卡）](stocks/旺矽-CPO探針卡.md)
   * [康普（電池正極材料）](stocks/康普-電池材料.md)
+  * [川湖（伺服器機架滑軌龍頭）](stocks/川湖-伺服器滑軌.md)
   * [宏泰（股票代號待確認）](stocks/宏泰.md)
   * [兆聯實業（台積電半導體水務工程）](stocks/兆聯實業-台積電水務.md)
   * [TPK-KY（觸控/玻璃基板）](stocks/TPK-KY-玻璃基板.md)
@@ -56,6 +59,7 @@
   * [世界（5347）](stocks/5347-世界.md)
   * [立敦（5344）](stocks/5344-立敦.md)
   * [力麒（5317）](stocks/5317-力麒.md)
+  * [宜鼎（5289）](stocks/5289-宜鼎.md)
   * [界霖（5285）](stocks/5285-界霖.md)
   * [信驊（5274）](stocks/5274-信驊.md)
   * [華星光（4979）](stocks/4979-華星光.md)
@@ -83,6 +87,7 @@
   * [精確（3162）](stocks/3162-精確.md)
   * [穩懋（3105）](stocks/3105-穩懋.md)
   * [晶技（3042）](stocks/3042-晶技.md)
+  * [文曄（3036）](stocks/3036-文曄.md)
   * [臻鼎-KY（3034）](stocks/3034-臻鼎-KY.md)
   * [信邦（3023）](stocks/3023-信邦.md)
   * [健和興（3017）](stocks/3017-健和興.md)
@@ -94,6 +99,7 @@
   * [萬海（2615）](stocks/2615-萬海.md)
   * [陽明（2609）](stocks/2609-陽明.md)
   * [長榮海運（2603）](stocks/2603-長榮海運.md)
+  * [日勝生（2547）](stocks/2547-日勝生.md)
   * [華新科（2492）](stocks/2492-華新科.md)
   * [強茂（2481）](stocks/2481-強茂.md)
   * [大毅（2478）](stocks/2478-大毅.md)
@@ -141,8 +147,12 @@
   * [遠東新（1402）](stocks/1402-遠東新.md)
   * [台化（1326）](stocks/1326-台化.md)
   * [國喬（1312）](stocks/1312-國喬.md)
+  * [00947 台新臺灣 IC 設計 ETF](stocks/00947-台新臺灣IC設計ETF.md)
 
 * **📅 集數摘要**
+  * [錢線百分百 2026-06-08 第 3 集（上集）](summaries/2026060803.md)
+  * [錢線百分百 2026-06-08 第 2 集（中集）](summaries/2026060802.md)
+  * [錢線百分百 2026-06-08 第 1 集（下集）](summaries/2026060801.md)
   * [錢線百分百 2026-06-05 第 3 集（上集）](summaries/2026060503.md)
   * [錢線百分百 2026-06-05 第 2 集（中集）](summaries/2026060502.md)
   * [錢線百分百 2026-06-05 第 1 集（下集）](summaries/2026060501.md)
@@ -160,10 +170,7 @@
   * [錢線百分百 2026-06-01 第 1 集（下集）](summaries/2026060101.md)
   * [錢線百分百 2026-05-29 第 3 集（上集）](summaries/2026052903.md)
   * [錢線百分百 2026-05-29 第 2 集（中集）](summaries/2026052902.md)
-  * [錢線百分百 2026-05-29 第 1 集（下集）](summaries/2026052901.md)
-  * [錢線百分百 2026-05-28 第 3 集（上集）](summaries/2026052803.md)
-  * [錢線百分百 2026-05-28 第 2 集（中集）](summaries/2026052802.md)
-  * ...共 63 集
+  * ...共 66 集
 
 * **💡 概念主題**
   * [面板 FOPLP（扇出型面板級封裝）](concepts/面板FOPLP.md)
@@ -174,14 +181,18 @@
   * [航運景氣轉折](concepts/航運景氣轉折.md)
   * [璞玉指數](concepts/璞玉指數.md)
   * [玻璃基板](concepts/玻璃基板.md)
+  * [正逆價差（台指期）](concepts/正逆價差-台指期.md)
   * [智慧眼鏡（Smart Glasses / AR Glasses）](concepts/智慧眼鏡.md)
   * [房市 AI 廊帶 與 股房資金流四象限](concepts/房市AI廊帶-股房資金流.md)
   * [態勢感知（Situational Awareness）與 AGI 2027 論文](concepts/態勢感知-AGI2027.md)
   * [康寧供應鏈－CPO 光纖](concepts/康寧供應鏈-CPO光纖.md)
   * [川習會貿易談判](concepts/川習會貿易談判.md)
   * [大轉骨 × 戴維斯雙擊](concepts/大轉骨-戴維斯雙擊.md)
+  * [台股 2026 年 6 月大回調](concepts/台股2026年6月大回調.md)
   * [台積電 COUPE（光電整合封裝架構）](concepts/台積電COUPE.md)
+  * [低基期 KD 選股策略](concepts/低基期KD選股策略.md)
   * [主動式 ETF（瑤池金母）](concepts/主動式ETF-瑤池金母.md)
+  * [Vera Rubin 架構（輝達下一代 GPU）](concepts/Vera Rubin架構.md)
   * [SpaceX 太空帝國 IPO](concepts/SpaceX-太空帝國IPO.md)
   * [IC 設計族群－ASIC 矽智財](concepts/IC設計族群-ASIC矽智財.md)
   * [Google I/O 2026 四大黑科技](concepts/GoogleIO2026黑科技.md)
@@ -189,6 +200,7 @@
   * [BBU 電力供應鏈](concepts/BBU電力供應.md)
   * [AI 敘事轉變——CPU 崛起（Agentic AI 時代）](concepts/AI敘事轉變-CPU崛起.md)
   * [AI 伺服器供應鏈](concepts/AI伺服器供應鏈.md)
+  * [AI 三階段發展](concepts/AI三階段發展.md)
 
 * **🎯 預測追蹤**
   * [Tracker](predictions/tracker.md)
