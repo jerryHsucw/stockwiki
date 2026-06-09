@@ -43,6 +43,7 @@
   * [AES-KY（6282）](stocks/6282-AES-KY.md)
   * [台燿-KY（6274）](stocks/6274-台燿-KY.md)
   * [同欣電（6271）](stocks/6271-同欣電.md)
+  * [新日興（6209）](stocks/6209-新日興.md)
   * [今國光（6209）](stocks/6209-今國光.md)
   * [雷科（6207）](stocks/6207-雷科.md)
   * [飛捷（6206）](stocks/6206-飛捷.md)
@@ -116,6 +117,7 @@
   * [研華（2395）](stocks/2395-研華.md)
   * [台光電（2383）](stocks/2383-台光電.md)
   * [廣達（2382）](stocks/2382-廣達.md)
+  * [微星（2377）](stocks/2377-微星.md)
   * [凱美（2375）](stocks/2375-凱美.md)
   * [燿華（2367）](stocks/2367-燿華.md)
   * [致茂（2360）](stocks/2360-致茂.md)
@@ -150,6 +152,9 @@
   * [00947 台新臺灣 IC 設計 ETF](stocks/00947-台新臺灣IC設計ETF.md)
 
 * **📅 集數摘要**
+  * [錢線百分百 2026-06-09 第 3 集](summaries/2026060903.md)
+  * [錢線百分百 2026-06-09 第 2 集](summaries/2026060902.md)
+  * [錢線百分百 2026-06-09 第 1 集](summaries/2026060901.md)
   * [錢線百分百 2026-06-08 第 3 集（上集）](summaries/2026060803.md)
   * [錢線百分百 2026-06-08 第 2 集（中集）](summaries/2026060802.md)
   * [錢線百分百 2026-06-08 第 1 集（下集）](summaries/2026060801.md)
@@ -167,10 +172,7 @@
   * [錢線百分百 2026-06-02 第 1 集（下集）](summaries/2026060201.md)
   * [錢線百分百 2026-06-01 第 3 集（上集）](summaries/2026060103.md)
   * [錢線百分百 2026-06-01 第 2 集（中集）](summaries/2026060102.md)
-  * [錢線百分百 2026-06-01 第 1 集（下集）](summaries/2026060101.md)
-  * [錢線百分百 2026-05-29 第 3 集（上集）](summaries/2026052903.md)
-  * [錢線百分百 2026-05-29 第 2 集（中集）](summaries/2026052902.md)
-  * ...共 66 集
+  * ...共 69 集
 
 * **💡 概念主題**
   * [面板 FOPLP（扇出型面板級封裝）](concepts/面板FOPLP.md)
@@ -178,7 +180,9 @@
   * [輝達 NVLink Fusion 開放平台](concepts/輝達NVLink-Fusion開放平台.md)
   * [護國神電——AI 電力基礎建設](concepts/護國神電-電力基建.md)
   * [記憶體族群分化](concepts/記憶體族群分化.md)
+  * [被動元件結構性缺貨](concepts/被動元件結構性缺貨.md)
   * [航運景氣轉折](concepts/航運景氣轉折.md)
+  * [聯準會升息警示 2026](concepts/聯準會升息警示2026.md)
   * [璞玉指數](concepts/璞玉指數.md)
   * [玻璃基板](concepts/玻璃基板.md)
   * [正逆價差（台指期）](concepts/正逆價差-台指期.md)
@@ -192,6 +196,7 @@
   * [台積電 COUPE（光電整合封裝架構）](concepts/台積電COUPE.md)
   * [低基期 KD 選股策略](concepts/低基期KD選股策略.md)
   * [主動式 ETF（瑤池金母）](concepts/主動式ETF-瑤池金母.md)
+  * [WWDC 蘋果 2026](concepts/WWDC蘋果2026.md)
   * [Vera Rubin 架構（輝達下一代 GPU）](concepts/Vera Rubin架構.md)
   * [SpaceX 太空帝國 IPO](concepts/SpaceX-太空帝國IPO.md)
   * [IC 設計族群－ASIC 矽智財](concepts/IC設計族群-ASIC矽智財.md)
