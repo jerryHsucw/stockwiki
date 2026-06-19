@@ -320,3 +320,5 @@
 **更新 glossary.md：** 新增 B/B值、HVLP銅箔、FAU、GAA、CoPoS、央行賣權、HVDC、AGI/ASI 共 8 條
 
 **更新 predictions/tracker.md：** 新增 P192-P200（9條）；驗證 P178/P183/P187/P197 狀態更新
+
+## [2026-06-19] ingest | 錢線百分百2026061901（第 1 集）— 攝入完成，新增個股4頁（擎亞、玉晶光、訊芯-KY、乙盛-KY），更新個股16頁，新增術語4條（FedWatch、PMLA、FAU、Siri AI），新增預測9條（P201-P209），驗證舊預測2條（P183兌現、P187進行中），整份重寫macro.md
