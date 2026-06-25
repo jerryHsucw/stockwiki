@@ -6,16 +6,19 @@
 
 * **📈 個股頁面**
   * [雅特力-KY](stocks/雅特力-KY.md)
+  * [長廣（真空壓膜機）](stocks/長廣-真空壓膜機.md)
   * [長佳智能（AI 醫療）](stocks/長佳智能-AI醫療.md)
   * [金居（HVLP 超低輪廓銅箔）](stocks/金居-HVLP銅箔.md)
   * [邁達特（AI軟體系統整合）](stocks/邁達特-AI軟體.md)
   * [通嘉](stocks/通嘉.md)
   * [萬潤（未知代號）](stocks/萬潤.md)
+  * [華東（記憶體封測）](stocks/華東-記憶體封測.md)
   * [華景電（AMC微環境污染防治設備）](stocks/華景電-AMC設備.md)
   * [英濟](stocks/英濟.md)
   * [聯華](stocks/聯華.md)
   * [聯傑](stocks/聯傑.md)
   * [穎崴（CPO探針卡）](stocks/穎崴-CPO探針卡.md)
+  * [福懋科（記憶體封測）](stocks/福懋科-記憶體封測.md)
   * [祥碩](stocks/祥碩.md)
   * [瑞軒](stocks/瑞軒.md)
   * [澤米](stocks/澤米.md)
@@ -25,10 +28,12 @@
   * [東元](stocks/東元.md)
   * [旺矽（CPO探針卡）](stocks/旺矽-CPO探針卡.md)
   * [新纖（新光集團）](stocks/新纖.md)
+  * [新應材（ABF製程材料）](stocks/新應材-ABF材料.md)
   * [揚明光](stocks/揚明光.md)
   * [康普（電池正極材料）](stocks/康普-電池材料.md)
   * [川湖（伺服器機架滑軌龍頭）](stocks/川湖-伺服器滑軌.md)
   * [宏泰（股票代號待確認）](stocks/宏泰.md)
+  * [奇鋐（散熱）](stocks/奇鋐-散熱.md)
   * [大銀微系統](stocks/大銀微系統.md)
   * [台表科](stocks/台表科.md)
   * [台特化](stocks/台特化.md)
@@ -198,6 +203,9 @@
   * [00947 台新臺灣 IC 設計 ETF](stocks/00947-台新臺灣IC設計ETF.md)
 
 * **📅 集數摘要**
+  * [錢線百分百 2026-06-25 第 3 集（上集）](summaries/2026062503.md)
+  * [錢線百分百 2026-06-25 第 2 集（中集）](summaries/2026062502.md)
+  * [錢線百分百 2026-06-25 第 1 集（下集）](summaries/2026062501.md)
   * [錢線百分百 2026-06-24 第 3 集（上集）](summaries/2026062403.md)
   * [錢線百分百 2026-06-24 第 2 集（中集）](summaries/2026062402.md)
   * [錢線百分百 2026-06-24 第 1 集（下集）](summaries/2026062401.md)
@@ -215,10 +223,7 @@
   * [錢線百分百 2026-06-17 第 2 集（中集）](summaries/2026061702.md)
   * [錢線百分百 2026-06-17 第 1 集（下集）](summaries/2026061701.md)
   * [錢線百分百 2026-06-16 第 3 集（上集）](summaries/2026061603.md)
-  * [錢線百分百 2026-06-16 第 2 集（中集）](summaries/2026061602.md)
-  * [錢線百分百 2026-06-16 第 1 集（下集）](summaries/2026061601.md)
-  * [錢線百分百 2026-06-12 第 3 集](summaries/2026061203.md)
-  * ...共 97 集
+  * ...共 100 集
 
 * **💡 概念主題**
   * [高股息 ETF 分析](concepts/高股息ETF分析.md)
@@ -264,10 +269,12 @@
   * [PMIC 電源管理 IC — AI 需求型漲價](concepts/PMIC-電源管理IC-AI需求型漲價.md)
   * [Neocloud 算力租賃](concepts/Neocloud算力租賃.md)
   * [MCU 漲價 — AI 伺服器電力監控](concepts/MCU漲價-AI伺服器電力監控.md)
+  * [MANGOS（新美股六雄）](concepts/MANGOS-新美股六雄.md)
   * [IC 設計族群－ASIC 矽智財](concepts/IC設計族群-ASIC矽智財.md)
   * [HVLP 銅箔（超低輪廓銅箔）](concepts/HVLP銅箔-金居.md)
   * [Google I/O 2026 四大黑科技](concepts/GoogleIO2026黑科技.md)
   * [聯準會華許時代（2026 年 6 月起）](concepts/Fed華許時代-2026.md)
+  * [CoPoS（玻璃基板扇出型封裝）](concepts/CoPoS-玻璃基板接班人.md)
   * [COMPUTEX 2026－機器人行情](concepts/COMPUTEX2026-機器人行情.md)
   * [BBU 電力供應鏈](concepts/BBU電力供應.md)
   * [AI 敘事轉變——CPU 崛起（Agentic AI 時代）](concepts/AI敘事轉變-CPU崛起.md)
